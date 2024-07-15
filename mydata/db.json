@@ -1,0 +1,53 @@
+{
+  "student": [
+    {
+      "id": 3,
+      "rollno": "122",
+      "name": "nishu",
+      "city": "jabalpur",
+      "fees": "17000"
+    },
+    {
+      "id": 5,
+      "rollno": "124",
+      "name": "siya",
+      "city": "gadarwara",
+      "fees": "456"
+    },
+    {
+      "rollno": "124",
+      "name": "vani",
+      "city": "bhopal",
+      "fees": "23454",
+      "id": 6
+    },
+    {
+      "rollno": "127",
+      "name": "vivan",
+      "city": "indore",
+      "fees": "67584",
+      "id": 8
+    },
+    {
+      "rollno": "126",
+      "name": "namo",
+      "city": "bhopal",
+      "fees": "6790",
+      "id": 9
+    },
+    {
+      "rollno": "1610",
+      "name": "reshul",
+      "city": "bhopal",
+      "fees": "25000",
+      "id": 10
+    },
+    {
+      "rollno": "123",
+      "name": "vani",
+      "city": "gadarwara",
+      "fees": "1234556",
+      "id": 11
+    }
+  ]
+}

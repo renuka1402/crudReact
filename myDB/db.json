@@ -1,0 +1,68 @@
+{
+    "student":[
+        {
+            "rollno":120,
+            "name":"renu",
+            "city":"bhopal",
+            "fees":54000
+        },
+        {
+            "rollno":121,
+            "name":"tanu",
+            "city":"kareli",
+            "fees":43000
+        },
+    
+    {
+        "rollno":122,
+        "name":"nishu",
+        "city":"indore",
+        "fees":17000
+    },
+
+{
+    "rollno":123,
+    "name":"riya",
+    "city":"usa",
+    "fees":97000
+},
+{
+    "rollno":124,
+    "name":"siya",
+    "city":"gadarwara",
+    "fees":50000
+},      {
+    "rollno":125,
+    "name":"vani",
+    "city":"bhopal",
+    "fees":54000
+},
+{
+    "rollno":126,
+    "name":"tanushree",
+    "city":"kareli",
+    "fees":43000
+},
+
+{
+"rollno":127,
+"name":"nishika",
+"city":"indore",
+"fees":17000
+},
+
+{
+"rollno":128,
+"name":"rishika",
+"city":"usa",
+"fees":97000
+},
+{
+"rollno":129,
+"name":"siya",
+"city":"gadarwara",
+"fees":50000
+}
+
+    ]
+}
